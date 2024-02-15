@@ -22,6 +22,16 @@ The code is divided into several sections:
 
 4. **GUI Update**: This section updates the Tkinter GUI and the video display window.
 
+# Results
+
+After running this program, you will see a video stream with the selected color being tracked in real-time. The tracked objects will be highlighted with bounding boxes. This allows you to visually confirm the effectiveness of the color tracking algorithm.
+
+![Result3](https://github.com/ArunMekkad/ColorTracking/blob/main/Result3.png)
+
+![Result2](https://github.com/ArunMekkad/ColorTracking/blob/main/Result2.png)
+
+Remember, the accuracy of the tracking can vary depending on the lighting conditions and the quality of the video. Therefore, it's always a good idea to test the program under different conditions to ensure robust performance. Happy tracking!
+
 ## Future Scope
 
 This program has a wide range of potential real-time applications:
